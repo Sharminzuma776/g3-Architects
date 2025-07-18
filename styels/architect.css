@@ -215,6 +215,16 @@ main > section{
   filter: grayscale(100%);
 }
 
+.footer {
+  background-color: #FFF4E7 ; 
+  text-align: center;
+  padding: 1rem;
+  font-size: 20px;
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 130px;
+  margin-bottom: 216px;
+}
 
 /* respnsive media query */
   
